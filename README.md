@@ -1,4 +1,4 @@
-# Урок 11. Домашнее задание <br>
+# App: students information (FLASK_HTML) <br>
 
 ---
 
